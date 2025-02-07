@@ -1,0 +1,13 @@
+<entity-engine-xml>
+    <ProductStore productStoreId="STORE" 
+                  primaryStoreGroupId="STORE_GROUP" 
+                  storeName="Demo Store" 
+                  companyName="Company" 
+                  reserveInventory="N" 
+                  defaultLocaleString="en_US" 
+                  defaultCurrencyUomId="USD" 
+                  defaultSalesChannelEnumId="WEB_SALES_CHANNEL" 
+                  autoApproveInvoice="Y" 
+                  autoApproveOrder="Y"/>
+</entity-engine-xml>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="C-2_BLACK_2" fromDate="2025-02-03 18:32:18.0" lastUpdatedStamp="2025-02-03 18:32:20.134" lastUpdatedTxStamp="2025-02-03 18:32:20.134" createdStamp="2025-02-03 18:32:20.134" createdTxStamp="2025-02-03 18:32:20.134"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="C-1_WHITE_3" fromDate="2025-02-03 18:32:03.0" lastUpdatedStamp="2025-02-03 18:32:06.015" lastUpdatedTxStamp="2025-02-03 18:32:06.015" createdStamp="2025-02-03 18:32:06.015" createdTxStamp="2025-02-03 18:32:06.015"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="WP-1_BROWN_8" fromDate="2025-02-03 18:31:46.0" lastUpdatedStamp="2025-02-03 18:31:48.674" lastUpdatedTxStamp="2025-02-03 18:31:48.673" createdStamp="2025-02-03 18:31:48.674" createdTxStamp="2025-02-03 18:31:48.673"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="WF-1_BROWN_9" fromDate="2025-02-03 18:31:28.0" lastUpdatedStamp="2025-02-03 18:31:30.575" lastUpdatedTxStamp="2025-02-03 18:31:30.574" createdStamp="2025-02-03 18:31:30.575" createdTxStamp="2025-02-03 18:31:30.574"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="WS-1_BROWN_7" fromDate="2025-02-03 18:31:04.0" lastUpdatedStamp="2025-02-03 18:31:06.15" lastUpdatedTxStamp="2025-02-03 18:31:06.149" createdStamp="2025-02-03 18:31:06.15" createdTxStamp="2025-02-03 18:31:06.149"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="MP-1_WHITE_8" fromDate="2025-02-03 18:30:42.0" lastUpdatedStamp="2025-02-03 18:30:45.208" lastUpdatedTxStamp="2025-02-03 18:30:45.208" createdStamp="2025-02-03 18:30:45.208" createdTxStamp="2025-02-03 18:30:45.208"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="MF-2_BROWN_10" fromDate="2025-02-03 18:30:27.0" lastUpdatedStamp="2025-02-03 18:30:29.655" lastUpdatedTxStamp="2025-02-03 18:30:29.654" createdStamp="2025-02-03 18:30:29.655" createdTxStamp="2025-02-03 18:30:29.654"/>
+<ProductCategoryMember productCategoryId="PROMOTION" productId="MS-1_WHITE_9" fromDate="2025-02-03 18:29:40.0" lastUpdatedStamp="2025-02-03 18:29:47.296" lastUpdatedTxStamp="2025-02-03 18:29:47.291" createdStamp="2025-02-03 18:29:47.296" createdTxStamp="2025-02-03 18:29:47.291"/>
+</entity-engine-xml>

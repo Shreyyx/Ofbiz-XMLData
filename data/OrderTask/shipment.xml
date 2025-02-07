@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<Shipment shipmentId="HwmDemo1000" shipmentTypeId="PURCHASE_SHIPMENT" statusId="SHIPMENT_SHIPPED" primaryOrderId="HWMDEMO1000" primaryShipGroupSeqId="00003" partyIdTo="P1001" lastUpdatedStamp="2025-02-04 12:18:37.131" lastUpdatedTxStamp="2025-02-04 12:18:37.129" createdStamp="2025-02-04 12:18:37.131" createdTxStamp="2025-02-04 12:18:37.129"/>
+</entity-engine-xml>

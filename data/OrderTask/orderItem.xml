@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<OrderItem orderId="HWMDEMO1001" orderItemSeqId="00006" orderItemTypeId="PRODUCT_ORDER_ITEM" productId="MF-2_WHITE_7" prodCatalogId="PC1000" productCategoryId="BROWSE_ROOT" statusId="ITEM_CANCELLED" lastUpdatedStamp="2025-02-04 11:26:52.23" lastUpdatedTxStamp="2025-02-04 11:26:52.228" createdStamp="2025-02-04 10:59:06.0" createdTxStamp="2025-02-04 10:59:06.0"/>
+<OrderItem orderId="HWMDEMO1001" orderItemSeqId="00005" orderItemTypeId="PRODUCT_ORDER_ITEM" productId="MF-1_RED_10" prodCatalogId="PC1000" productCategoryId="BROWSE_ROOT" statusId="ITEM_CANCELLED" lastUpdatedStamp="2025-02-04 11:27:21.836" lastUpdatedTxStamp="2025-02-04 11:27:21.836" createdStamp="2025-02-04 10:58:04.0" createdTxStamp="2025-02-04 10:58:04.0"/>
+<OrderItem orderId="HWMDEMO1000" orderItemSeqId="00003" orderItemTypeId="PRODUCT_ORDER_ITEM" productId="MS-2_BLACK_7" prodCatalogId="PC1000" productCategoryId="BROWSE_ROOT" statusId="ITEM_COMPLETED" lastUpdatedStamp="2025-02-04 12:08:06.033" lastUpdatedTxStamp="2025-02-04 12:08:06.032" createdStamp="2025-02-03 19:37:10.0" createdTxStamp="2025-02-03 19:37:10.0"/>
+<OrderItem orderId="HWMDEMO1000" orderItemSeqId="00002" orderItemTypeId="PRODUCT_ORDER_ITEM" productId="MS-1_WHITE_7" prodCatalogId="PC1000" productCategoryId="BROWSE_ROOT" statusId="ITEM_COMPLETED" lastUpdatedStamp="2025-02-04 12:07:33.961" lastUpdatedTxStamp="2025-02-04 12:07:33.959" createdStamp="2025-02-03 19:06:27.0" createdTxStamp="2025-02-03 19:06:27.0"/>
+</entity-engine-xml>

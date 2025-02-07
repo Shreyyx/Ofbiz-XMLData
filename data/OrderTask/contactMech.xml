@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<ContactMech contactMechId="CM1005" contactMechTypeId="TELECOM_NUMBER" lastUpdatedStamp="2025-02-03 19:32:31.546" lastUpdatedTxStamp="2025-02-03 19:32:31.546" createdStamp="2025-02-03 19:32:31.546" createdTxStamp="2025-02-03 19:32:31.546"/>
+<ContactMech contactMechId="CM1004" contactMechTypeId="POSTAL_ADDRESS" lastUpdatedStamp="2025-02-03 19:29:27.6" lastUpdatedTxStamp="2025-02-03 19:29:27.6" createdStamp="2025-02-03 19:29:27.6" createdTxStamp="2025-02-03 19:29:27.6"/>
+<ContactMech contactMechId="CM1003" contactMechTypeId="EMAIL_ADDRESS" infoString=" mark.tailor@hotwaxmedia.com" lastUpdatedStamp="2025-02-03 19:18:18.884" lastUpdatedTxStamp="2025-02-03 19:18:18.884" createdStamp="2025-02-03 19:18:18.884" createdTxStamp="2025-02-03 19:18:18.884"/>
+<ContactMech contactMechId="CM1002" contactMechTypeId="TELECOM_NUMBER" lastUpdatedStamp="2025-02-03 19:15:41.724" lastUpdatedTxStamp="2025-02-03 19:15:41.724" createdStamp="2025-02-03 19:15:41.724" createdTxStamp="2025-02-03 19:15:41.724"/>
+<ContactMech contactMechId="CM1001" contactMechTypeId="POSTAL_ADDRESS" lastUpdatedStamp="2025-02-03 19:11:01.525" lastUpdatedTxStamp="2025-02-03 19:11:01.522" createdStamp="2025-02-03 19:11:01.525" createdTxStamp="2025-02-03 19:11:01.522"/>
+<ContactMech contactMechId="Company" contactMechTypeId="EMAIL_ADDRESS" infoString="ofbiztest@example.com" lastUpdatedStamp="2025-02-03 16:01:43.822" lastUpdatedTxStamp="2025-02-03 16:01:43.662" createdStamp="2025-02-03 16:01:43.822" createdTxStamp="2025-02-03 16:01:43.662"/>
+</entity-engine-xml>

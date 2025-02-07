@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<PartyRole partyId="P1001" roleTypeId="CUSTOMER" lastUpdatedStamp="2025-02-03 19:10:11.929" lastUpdatedTxStamp="2025-02-03 19:10:11.925" createdStamp="2025-02-03 19:10:11.929" createdTxStamp="2025-02-03 19:10:11.925"/>
+<PartyRole partyId="Company" roleTypeId="VENDOR" lastUpdatedStamp="2025-02-03 16:08:40.555" lastUpdatedTxStamp="2025-02-03 16:08:40.545" createdStamp="2025-02-03 16:08:40.555" createdTxStamp="2025-02-03 16:08:40.545"/>
+<PartyRole partyId="Company" roleTypeId="SUPPLIER" lastUpdatedStamp="2025-02-03 16:08:40.554" lastUpdatedTxStamp="2025-02-03 16:08:40.545" createdStamp="2025-02-03 16:08:40.554" createdTxStamp="2025-02-03 16:08:40.545"/>
+<PartyRole partyId="Company" roleTypeId="SUPPLIER_AGENT" lastUpdatedStamp="2025-02-03 16:08:40.553" lastUpdatedTxStamp="2025-02-03 16:08:40.545" createdStamp="2025-02-03 16:08:40.553" createdTxStamp="2025-02-03 16:08:40.545"/>
+<PartyRole partyId="Company" roleTypeId="SHIP_FROM_VENDOR" lastUpdatedStamp="2025-02-03 16:08:40.549" lastUpdatedTxStamp="2025-02-03 16:08:40.545" createdStamp="2025-02-03 16:08:40.549" createdTxStamp="2025-02-03 16:08:40.545"/>
+<PartyRole partyId="Company" roleTypeId="INTERNAL_ORGANIZATIO" lastUpdatedStamp="2025-02-03 16:01:43.784" lastUpdatedTxStamp="2025-02-03 16:01:43.662" createdStamp="2025-02-03 16:01:43.784" createdTxStamp="2025-02-03 16:01:43.662"/>
+<PartyRole partyId="Company" roleTypeId="BILL_TO_CUSTOMER" lastUpdatedStamp="2025-02-03 16:01:43.783" lastUpdatedTxStamp="2025-02-03 16:01:43.662" createdStamp="2025-02-03 16:01:43.783" createdTxStamp="2025-02-03 16:01:43.662"/>
+<PartyRole partyId="Company" roleTypeId="BILL_FROM_VENDOR" lastUpdatedStamp="2025-02-03 16:01:43.782" lastUpdatedTxStamp="2025-02-03 16:01:43.662" createdStamp="2025-02-03 16:01:43.782" createdTxStamp="2025-02-03 16:01:43.662"/>  
+</entity-engine-xml>

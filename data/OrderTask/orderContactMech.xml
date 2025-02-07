@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<OrderContactMech orderId="HWMDEMO1000" contactMechPurposeTypeId="PHONE_BILLING" contactMechId="CM1002" />
+<OrderContactMech orderId="HWMDEMO1000" contactMechPurposeTypeId="PHONE_SHIPPING" contactMechId="CM1005" />
+<OrderContactMech orderId="HWMDEMO1000" contactMechPurposeTypeId="SHIPPING_LOCATION" contactMechId="CM1004" />
+<OrderContactMech orderId="HWMDEMO1000" contactMechPurposeTypeId="BILLING_LOCATION" contactMechId="CM1001" />
+</entity-engine-xml>

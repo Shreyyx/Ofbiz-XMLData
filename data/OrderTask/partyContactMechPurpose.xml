@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<PartyContactMechPurpose partyId="P1001" contactMechId="CM1005" contactMechPurposeTypeId="BILLING_LOCATION" fromDate="2025-02-03 19:34:19.0" lastUpdatedStamp="2025-02-03 19:34:21.652" lastUpdatedTxStamp="2025-02-03 19:34:21.651" createdStamp="2025-02-03 19:34:21.652" createdTxStamp="2025-02-03 19:34:21.651"/>
+<PartyContactMechPurpose partyId="P1001" contactMechId="CM1004" contactMechPurposeTypeId="BILLING_LOCATION" fromDate="2025-02-03 19:31:27.0" lastUpdatedStamp="2025-02-03 19:31:29.356" lastUpdatedTxStamp="2025-02-03 19:31:29.351" createdStamp="2025-02-03 19:31:29.356" createdTxStamp="2025-02-03 19:31:29.351"/>
+<PartyContactMechPurpose partyId="P1001" contactMechId="CM1001" contactMechPurposeTypeId="BILLING_LOCATION" fromDate="2025-02-03 19:28:39.41" lastUpdatedStamp="2025-02-03 19:28:39.461" lastUpdatedTxStamp="2025-02-03 19:28:39.386" createdStamp="2025-02-03 19:28:39.461" createdTxStamp="2025-02-03 19:28:39.386"/>
+<PartyContactMechPurpose partyId="P1001" contactMechId="CM1002" contactMechPurposeTypeId="PHONE_SHIPPING" fromDate="2025-02-03 19:17:29.0" lastUpdatedStamp="2025-02-03 19:17:33.94" lastUpdatedTxStamp="2025-02-03 19:17:33.94" createdStamp="2025-02-03 19:17:33.94" createdTxStamp="2025-02-03 19:17:33.94"/>
+<PartyContactMechPurpose partyId="P1001" contactMechId="CM1001" contactMechPurposeTypeId="SHIPPING_LOCATION" fromDate="2025-02-03 19:14:12.0" lastUpdatedStamp="2025-02-03 19:14:14.851" lastUpdatedTxStamp="2025-02-03 19:14:14.845" createdStamp="2025-02-03 19:14:14.851" createdTxStamp="2025-02-03 19:14:14.845"/>
+</entity-engine-xml>

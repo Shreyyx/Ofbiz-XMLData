@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+<ShipmentItem shipmentId="HwmDemo1000" shipmentItemSeqId="00003" productId="MS-2_BLACK_7" lastUpdatedStamp="2025-02-04 12:21:01.772" lastUpdatedTxStamp="2025-02-04 12:21:01.772" createdStamp="2025-02-04 12:21:01.772" createdTxStamp="2025-02-04 12:21:01.772"/>
+<ShipmentItem shipmentId="HwmDemo1000" shipmentItemSeqId="00002" productId="MS-1_WHITE_7" lastUpdatedStamp="2025-02-04 12:20:27.534" lastUpdatedTxStamp="2025-02-04 12:20:27.532" createdStamp="2025-02-04 12:20:27.534" createdTxStamp="2025-02-04 12:20:27.532"/>
+</entity-engine-xml>

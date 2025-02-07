@@ -1,0 +1,11 @@
+<entity-engine-xml>
+    <!-- Assigning roles to the Company party -->
+    <PartyRole partyId="Company" roleTypeId="BILL_FROM_VENDOR"/>
+    <PartyRole partyId="Company" roleTypeId="SHIP_FROM_VENDOR"/>
+    <PartyRole partyId="Company" roleTypeId="BILL_TO_CUSTOMER"/>
+    <PartyRole partyId="Company" roleTypeId="INTERNAL_ORGANIZATIO"/>
+    <PartyRole partyId="Company" roleTypeId="SUPPLIER_AGENT"/>
+    <PartyRole partyId="Company" roleTypeId="SUPPLIER"/>
+    <PartyRole partyId="Company" roleTypeId="VENDOR"/>
+</entity-engine-xml>
+

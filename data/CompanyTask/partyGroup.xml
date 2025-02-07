@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <PartyGroup partyId="Company" groupName="Default Company" logoImageUrl="/images/ofbiz_logo.png"/>
+</entity-engine-xml>
+
